@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu May 25 19:02:11 EEST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0188-53a5-7102-000004877590 
+on database directory memory:D:\Projects\Educational\javaee-learning\javaee-idol\idol with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Alex/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_362-b08
+user.dir=D:\Projects\Educational\javaee-learning\javaee-idol
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
